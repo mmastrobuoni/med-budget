@@ -1,0 +1,1854 @@
+{
+  "version": "2026-10-16-v1",
+  "retrieved": "2026-10-16",
+  "sourceUpdated": "2026-06-25",
+  "source": "https://city-medford-ma-budget-book.cleargov.com/21444/fund-summaries/general-fund",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "basis": [
+    "Published actual",
+    "Published actual",
+    "Published actual",
+    "Published actual",
+    "Published budget",
+    "Published budget"
+  ],
+  "departments": [
+    {
+      "id": "executive-office",
+      "name": "Executive Office",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/executive-office",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            112162.74,
+            107462.57,
+            111829.96,
+            107119.49,
+            118150,
+            124068.99
+          ],
+          "id": "executive-office-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            789767.01,
+            478839.4,
+            521479.94,
+            546473.13,
+            572238,
+            610560.33
+          ],
+          "id": "executive-office-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "FY22 and FY23 include contractual agreements not represented in later years; historical growth is not comparable without adjustment.",
+      "included": true
+    },
+    {
+      "id": "legislative",
+      "name": "Legislative",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/legislative",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            34338.9,
+            32197.68,
+            84568.13,
+            64209.31,
+            80100,
+            50100
+          ],
+          "id": "legislative-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            212354.28,
+            215687.96,
+            219664.84,
+            217029.78,
+            227259,
+            232774
+          ],
+          "id": "legislative-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "law",
+      "name": "Law",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/law",
+      "accounts": [
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            198924.53,
+            121831.97,
+            76899.79,
+            105399.43,
+            236828,
+            230866.6
+          ],
+          "id": "law-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            342002.87,
+            231912.02,
+            298296.52,
+            443806.16,
+            288400,
+            298700
+          ],
+          "id": "law-1",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Published book amount; reconcile Council reductions before calling this adopted.",
+      "included": true
+    },
+    {
+      "id": "city-clerk",
+      "name": "City Clerk",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/city-clerk",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            17394.34,
+            12434.48,
+            9282.7,
+            15983.61,
+            21150,
+            16950
+          ],
+          "id": "city-clerk-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            328462.87,
+            312276.27,
+            359262.52,
+            315346,
+            387536,
+            347606.72
+          ],
+          "id": "city-clerk-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "elections",
+      "name": "Elections",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/elections",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            48456.68,
+            82166.69,
+            89129.47,
+            36261.81,
+            116580,
+            68100
+          ],
+          "id": "elections-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Elections",
+          "values": [
+            null,
+            null,
+            null,
+            111909.32,
+            88000,
+            134000
+          ],
+          "id": "elections-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            329823.99,
+            240991,
+            284361.71,
+            213697.82,
+            190349,
+            283231.63
+          ],
+          "id": "elections-2",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "diversity-equity-inclusion",
+      "name": "Diversity, Equity & Inclusion",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/diversity-equity-inclusion",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            3872.47,
+            1246.09,
+            2963.15,
+            12608.19,
+            18400,
+            18900
+          ],
+          "id": "diversity-equity-inclusion-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            184577.49,
+            97469.54,
+            104574.17,
+            99468.06,
+            111511,
+            130461.76
+          ],
+          "id": "diversity-equity-inclusion-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "human-resources",
+      "name": "Human Resources",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/human-resources",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            7592.17,
+            6547.68,
+            7863.09,
+            8180.87,
+            46500,
+            57122.5
+          ],
+          "id": "human-resources-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            54061.13,
+            179791.52,
+            208013.52,
+            253501.49,
+            273993,
+            306061.21
+          ],
+          "id": "human-resources-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "information-technology",
+      "name": "Information Technology",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/information-technology",
+      "accounts": [
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            142139.56,
+            61982,
+            117925.77,
+            119602.9,
+            122137,
+            125191.04
+          ],
+          "id": "information-technology-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            208419.05,
+            192000.54,
+            274095.57,
+            157703.6,
+            238120,
+            396120
+          ],
+          "id": "information-technology-1",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "finance-procurement",
+      "name": "Finance / Procurement",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/finance-procurement",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            113327.76,
+            137263.77,
+            155231.14,
+            292062.8,
+            259840,
+            262740
+          ],
+          "id": "finance-procurement-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            464174.06,
+            539258.23,
+            594412.12,
+            594205.32,
+            620295,
+            635078.45
+          ],
+          "id": "finance-procurement-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "treasurer-collector",
+      "name": "Treasurer / Collector",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/treasurer-collector",
+      "accounts": [
+        {
+          "name": "Personnel",
+          "values": [
+            null,
+            null,
+            null,
+            19731.3,
+            26006,
+            26403.04
+          ],
+          "id": "treasurer-collector-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            232303.56,
+            269442.13,
+            283869.62,
+            288420.73,
+            282225,
+            300675
+          ],
+          "id": "treasurer-collector-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            403534.33,
+            446048.13,
+            397041.14,
+            442293.18,
+            471828,
+            487128.25
+          ],
+          "id": "treasurer-collector-2",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "assessor",
+      "name": "Assessor",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/assessor",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            131670.47,
+            127678.29,
+            159744.23,
+            168752.62,
+            225175,
+            164280
+          ],
+          "id": "assessor-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            316975.68,
+            328433.59,
+            397374.99,
+            369748.47,
+            419637,
+            428049.09
+          ],
+          "id": "assessor-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "planning-development-sustainability",
+      "name": "Planning, Development & Sustainability",
+      "group": "Community development",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/planning-development-sustainability",
+      "accounts": [
+        {
+          "name": "Personnel Expenses \u2014 source series 1",
+          "values": [
+            69565.77,
+            73764.6,
+            84761.89,
+            null,
+            null,
+            null
+          ],
+          "id": "planning-development-sustainability-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses \u2014 source series 1",
+          "values": [
+            142478.07,
+            102240.18,
+            210308.17,
+            995,
+            null,
+            null
+          ],
+          "id": "planning-development-sustainability-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            11798.46,
+            13684.41,
+            23090.44,
+            149151.43,
+            227120,
+            150100
+          ],
+          "id": "planning-development-sustainability-2",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            270667.68,
+            285007.8,
+            455390.42,
+            629630.06,
+            696043,
+            722105.83
+          ],
+          "id": "planning-development-sustainability-3",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Multiple source series share account labels; retained separately. Historical organizational crosswalk pending.",
+      "included": true
+    },
+    {
+      "id": "peg-access-medford-community-media",
+      "name": "Medford Community Media",
+      "group": "Separate fund",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/peg-access-medford-community-media",
+      "accounts": [
+        {
+          "name": "Cable",
+          "values": [
+            null,
+            null,
+            null,
+            2160,
+            2000,
+            2000
+          ],
+          "id": "peg-access-medford-community-media-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            60476.14,
+            84167.28,
+            37892.72,
+            40520.63,
+            49000,
+            49000
+          ],
+          "id": "peg-access-medford-community-media-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            93294.44,
+            127489.62,
+            128632.21,
+            137341.89,
+            164061,
+            225101.97
+          ],
+          "id": "peg-access-medford-community-media-2",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "FY27 PEG special revenue fund; excluded from General Fund scenario. Earlier-year fund scope requires crosswalk.",
+      "included": false
+    },
+    {
+      "id": "chevalier-theatre",
+      "name": "Chevalier Theatre",
+      "group": "Culture & recreation",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/chevalier-theatre",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            31630.5,
+            30765.75,
+            31369,
+            30890.02,
+            null,
+            null
+          ],
+          "id": "chevalier-theatre-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Consolidated into Facilities in current book. Missing current value is not assumed to be zero.",
+      "included": false
+    },
+    {
+      "id": "police-department",
+      "name": "Police",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/police-department",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            685805.01,
+            638313.79,
+            755913.82,
+            736126.99,
+            831356,
+            771145
+          ],
+          "id": "police-department-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            13327045.92,
+            12725085,
+            13187719.05,
+            13522027.94,
+            14252541,
+            16711653.91
+          ],
+          "id": "police-department-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "traffic-supervisors",
+      "name": "Traffic Supervisors",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/traffic-supervisors",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            3415.86,
+            3367.79,
+            7371,
+            6316.96,
+            9000,
+            9000
+          ],
+          "id": "traffic-supervisors-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            298223.6,
+            302858.3,
+            316969.27,
+            324634.35,
+            361500,
+            371025
+          ],
+          "id": "traffic-supervisors-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "fire-department",
+      "name": "Fire",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/fire-department",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            488497.3,
+            567850.14,
+            530494.7,
+            554786.34,
+            610250,
+            726500
+          ],
+          "id": "fire-department-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            13203446.94,
+            13366682.62,
+            14073596.46,
+            14801180.97,
+            15192244,
+            15282563.78
+          ],
+          "id": "fire-department-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "building-department",
+      "name": "Building",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/building-department",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            921455.88,
+            1044711.94,
+            1012093.39,
+            1051578.07,
+            1057806,
+            1110890.48
+          ],
+          "id": "building-department-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Source account charts are empty; retain department total without inventing a salary/operating split.",
+      "included": true
+    },
+    {
+      "id": "parking",
+      "name": "Parking",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/parking",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            171970.33,
+            402992.51,
+            317159.42,
+            425132,
+            292307,
+            299370.11
+          ],
+          "id": "parking-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            257819.01,
+            597982.02,
+            652594.77,
+            684562.42,
+            770433,
+            789819.33
+          ],
+          "id": "parking-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/electrical",
+      "accounts": [
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            352037.55,
+            336989.97,
+            326122.07,
+            306018.12,
+            322869,
+            345542.72
+          ],
+          "id": "electrical-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            301532.77,
+            425817.83,
+            357650.45,
+            369719.82,
+            429225,
+            444725
+          ],
+          "id": "electrical-1",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "department-of-public-works-dpw",
+      "name": "Public Works",
+      "group": "Public works",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/department-of-public-works-dpw",
+      "accounts": [
+        {
+          "name": "Forestry",
+          "values": [
+            390206.21,
+            444309.88,
+            545613.5,
+            497943.37,
+            618365,
+            613088.96
+          ],
+          "id": "department-of-public-works-dpw-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Engineering",
+          "values": [
+            465113.09,
+            464236.81,
+            518905.32,
+            450631.98,
+            719082,
+            736479.03
+          ],
+          "id": "department-of-public-works-dpw-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Parks",
+          "values": [
+            798719.77,
+            739797.96,
+            824028.22,
+            798988.24,
+            954765,
+            937625.81
+          ],
+          "id": "department-of-public-works-dpw-2",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Cemetery",
+          "values": [
+            915474.43,
+            965617.36,
+            1070438.07,
+            1034865.17,
+            1072842,
+            1086657.97
+          ],
+          "id": "department-of-public-works-dpw-3",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Highway",
+          "values": [
+            11021959.41,
+            10806051.06,
+            11104900.93,
+            11669536.42,
+            14029809,
+            15011756.92
+          ],
+          "id": "department-of-public-works-dpw-4",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Source shows divisions rather than prime accounts. Division growth controls are available; personnel split pending.",
+      "included": true
+    },
+    {
+      "id": "dpw-water-sewer-enterprise",
+      "name": "Water / Sewer",
+      "group": "Separate fund",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/dpw-water-sewer-enterprise",
+      "accounts": [
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            1479493.07,
+            1629196.12,
+            1639610.25,
+            1540103.01,
+            2093885,
+            2111870.47
+          ],
+          "id": "dpw-water-sewer-enterprise-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Other Financing",
+          "values": [
+            1607264,
+            1770000,
+            1600000,
+            4182617.96,
+            2163030.32,
+            2163030.32
+          ],
+          "id": "dpw-water-sewer-enterprise-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            21494781.95,
+            22388779.71,
+            23271786.78,
+            23910296.87,
+            24847137,
+            25588171.71
+          ],
+          "id": "dpw-water-sewer-enterprise-2",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Enterprise fund; excluded from General Fund scenario. Debt also appears in a separate debt department.",
+      "included": false
+    },
+    {
+      "id": "facilities",
+      "name": "Facilities",
+      "group": "Public works",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/facilities",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            1102096.81,
+            1315540.58,
+            1800442.03,
+            1691878.33,
+            2102129,
+            2212294.55
+          ],
+          "id": "facilities-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "board-of-health",
+      "name": "Health & Human Services",
+      "group": "Health & human services",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/board-of-health",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses \u2014 source series 1",
+          "values": [
+            28406.85,
+            36912.02,
+            39639.63,
+            23518.86,
+            32850,
+            56300
+          ],
+          "id": "board-of-health-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            31588.52,
+            32622.91,
+            37608.45,
+            47163.56,
+            55350,
+            102137
+          ],
+          "id": "board-of-health-1",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            666606.07,
+            621964.74,
+            551040.38,
+            723535.66,
+            867379,
+            883980.46
+          ],
+          "id": "board-of-health-2",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "civil-defense",
+      "name": "Emergency Management",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/civil-defense",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            null,
+            null,
+            299.67,
+            null,
+            1000,
+            400
+          ],
+          "id": "civil-defense-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            9089.92,
+            7506.6,
+            8839.92,
+            8839.92,
+            8840,
+            8840
+          ],
+          "id": "civil-defense-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "council-on-aging",
+      "name": "Council on Aging",
+      "group": "Health & human services",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/council-on-aging",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            14810.61,
+            16327.64,
+            17433.41,
+            14422.6,
+            16000,
+            16582
+          ],
+          "id": "council-on-aging-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            222017.66,
+            220681.95,
+            241082.75,
+            262631.18,
+            190057,
+            190486.03
+          ],
+          "id": "council-on-aging-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "library",
+      "name": "Library",
+      "group": "Culture & recreation",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/library",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            305379.06,
+            306406.05,
+            470337.94,
+            541670.45,
+            591500,
+            598500
+          ],
+          "id": "library-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            1230020.7,
+            1421440.6,
+            1542460.96,
+            1650057.75,
+            1640439,
+            1822565.52
+          ],
+          "id": "library-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "recreation",
+      "name": "Recreation",
+      "group": "Culture & recreation",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/recreation",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            482502.39,
+            577074.94,
+            586723.34,
+            658279.84,
+            639351,
+            682126.96
+          ],
+          "id": "recreation-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "veterans-services",
+      "name": "Veterans Services",
+      "group": "Health & human services",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/veterans-services",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses \u2014 source series 1",
+          "values": [
+            12603,
+            7483.36,
+            7670.91,
+            13520.33,
+            15000,
+            15000
+          ],
+          "id": "veterans-services-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            103224.18,
+            108704.37,
+            99264.25,
+            119151.34,
+            129002,
+            142527.28
+          ],
+          "id": "veterans-services-1",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            250974.34,
+            201639.52,
+            179461.08,
+            161554.75,
+            304714,
+            284132
+          ],
+          "id": "veterans-services-2",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "bicycle-commission",
+      "name": "Bicycle Commission",
+      "group": "Culture & recreation",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/bicycle-commission",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            835,
+            1392.01,
+            1500,
+            0,
+            1500,
+            2200
+          ],
+          "id": "bicycle-commission-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "community-development-board",
+      "name": "Community Development Board",
+      "group": "Community development",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/community-development-board",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            149,
+            167.14,
+            null,
+            null,
+            300,
+            300
+          ],
+          "id": "community-development-board-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            7418.75,
+            6431.22,
+            6900,
+            7000,
+            9800,
+            14300
+          ],
+          "id": "community-development-board-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "conservation-commission",
+      "name": "Conservation Commission",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/conservation-commission",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            837.92,
+            597,
+            609,
+            621,
+            1100,
+            1100
+          ],
+          "id": "conservation-commission-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            5200,
+            5200,
+            4600,
+            5800,
+            6400,
+            5750
+          ],
+          "id": "conservation-commission-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "historic-district-commission",
+      "name": "Historic District Commission",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/historic-district-commission",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            4259.5,
+            4525,
+            0,
+            1232,
+            5000,
+            5000
+          ],
+          "id": "historic-district-commission-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "historical-commission",
+      "name": "Historical Commission",
+      "group": "Culture & recreation",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/historical-commission",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            17464.98,
+            20495.69,
+            20338.32,
+            25748.85,
+            35000,
+            35000
+          ],
+          "id": "historical-commission-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "hormel-commission",
+      "name": "Hormel Commission",
+      "group": "Culture & recreation",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/hormel-commission",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            5699.94,
+            5399.94,
+            4499.94,
+            4703.78,
+            5400,
+            5400
+          ],
+          "id": "hormel-commission-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "license-commission",
+      "name": "License Commission",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/license-commission",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            400,
+            400
+          ],
+          "id": "license-commission-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            3750,
+            3067.31,
+            4500,
+            4500,
+            5400,
+            4500
+          ],
+          "id": "license-commission-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "traffic-commission",
+      "name": "Traffic Commission",
+      "group": "Public safety",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/traffic-commission",
+      "accounts": [
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            5050.68,
+            4500,
+            4500,
+            4500,
+            4500,
+            4500
+          ],
+          "id": "traffic-commission-0",
+          "driver": "wages",
+          "prime_account_code": null
+        },
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            21544,
+            22956.77,
+            22300,
+            22500,
+            26000,
+            26000
+          ],
+          "id": "traffic-commission-1",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "zoning-board-of-appeals",
+      "name": "Zoning Board of Appeals",
+      "group": "General government",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/zoning-board-of-appeals",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            8500,
+            11000,
+            9750,
+            11500,
+            12500,
+            12500
+          ],
+          "id": "zoning-board-of-appeals-0",
+          "driver": "operating",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "workers-compensation",
+      "name": "Workers Compensation",
+      "group": "Benefits & insurance",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/workers-compensation",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            76788.76,
+            85106.03,
+            68791.89,
+            21233.17,
+            30000,
+            30000
+          ],
+          "id": "workers-compensation-0",
+          "driver": "operating",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            806742.84,
+            762067.38,
+            907981.45,
+            1154245.47,
+            898000,
+            1183000
+          ],
+          "id": "workers-compensation-1",
+          "driver": "wages",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance",
+      "group": "Benefits & insurance",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/insurance",
+      "accounts": [
+        {
+          "name": "Ordinary Expenses",
+          "values": [
+            531720.36,
+            612874.04,
+            696857.04,
+            748827.04,
+            775000,
+            809875
+          ],
+          "id": "insurance-0",
+          "driver": "insurance",
+          "prime_account_code": null
+        },
+        {
+          "name": "Personnel Expenses",
+          "values": [
+            23462406.13,
+            24553750.31,
+            25872846.9,
+            27506881.04,
+            30445000,
+            33273325
+          ],
+          "id": "insurance-1",
+          "driver": "insurance",
+          "prime_account_code": null
+        }
+      ],
+      "note": "Personnel Expenses here represent insurance costs, not ordinary wages. Use insurance growth driver.",
+      "included": true
+    },
+    {
+      "id": "pensions",
+      "name": "Pensions",
+      "group": "Benefits & insurance",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/pensions",
+      "accounts": [
+        {
+          "name": "Department total \u2014 account detail unavailable",
+          "values": [
+            13334526.47,
+            14420159.22,
+            15404494.1,
+            16281536.44,
+            16767540,
+            17551285
+          ],
+          "id": "pensions-0",
+          "driver": "pension",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    },
+    {
+      "id": "debt-service-bonds-interest",
+      "name": "Debt service \u2014 General Fund",
+      "group": "Debt",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/departments/debt-service-bonds-interest",
+      "accounts": [
+        {
+          "name": "General Fund debt service",
+          "values": [
+            5440509.32,
+            5484902.78,
+            5091123.52,
+            5396418.5,
+            5060178,
+            6050413.63
+          ],
+          "id": "debt-service-bonds-interest-0",
+          "driver": "debt",
+          "prime_account_code": null
+        }
+      ],
+      "note": "General Fund only. Water/Sewer debt excluded. Flat forward placeholder until debt schedule is entered.",
+      "included": true
+    },
+    {
+      "id": "school",
+      "name": "Schools",
+      "group": "Schools",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/fund-summaries/general-fund",
+      "accounts": [
+        {
+          "name": "School appropriation",
+          "values": [
+            63151058.3,
+            68872609.46,
+            71364839.66,
+            80199895.69,
+            85490000,
+            89100000
+          ],
+          "id": "school-0",
+          "driver": "schools",
+          "prime_account_code": null
+        }
+      ],
+      "note": "General Fund school amount; do not add school detail again. City-paid benefits appear separately.",
+      "included": true
+    },
+    {
+      "id": "state-assessments",
+      "name": "State assessments",
+      "group": "State assessments",
+      "url": "https://city-medford-ma-budget-book.cleargov.com/21444/fund-summaries/general-fund",
+      "accounts": [
+        {
+          "name": "State assessments",
+          "values": [
+            12300600,
+            12072425,
+            12483520,
+            13184478,
+            13623646,
+            14137698
+          ],
+          "id": "state-assessments-0",
+          "driver": "assessments",
+          "prime_account_code": null
+        }
+      ],
+      "note": "",
+      "included": true
+    }
+  ],
+  "functions": {
+    "School": [
+      63151058.3,
+      68872609.46,
+      71364839.66,
+      80199895.69,
+      85490000,
+      89100000
+    ],
+    "Benefits and Insurance": [
+      38212184.56,
+      40433956.98,
+      42950971.38,
+      45712723.16,
+      48915540,
+      52847485
+    ],
+    "Public Safety": [
+      28042954.23,
+      27640513.02,
+      28909503.89,
+      29980913.47,
+      31298731,
+      33913827.69
+    ],
+    "Public Works": [
+      14693569.72,
+      14735553.65,
+      15864328.07,
+      16143843.51,
+      19496992,
+      20597903.24
+    ],
+    "State Assessments": [
+      12300600,
+      12072425,
+      12483520,
+      13184478,
+      13623646,
+      14137698
+    ],
+    "General Government": [
+      6755863.22,
+      7164261.4,
+      9729509.71,
+      8976762.82,
+      10000847,
+      10451506.46
+    ],
+    "Debt": [
+      5440509.32,
+      5484902.78,
+      5091123.52,
+      5396418.5,
+      5060178,
+      6050413.63
+    ],
+    "Culture and Recreation": [
+      2076957.07,
+      2366107.97,
+      2655729.5,
+      2912582.69,
+      2916690,
+      3148592.48
+    ],
+    "Health and Human Services": [
+      1518681.19,
+      1345052.14,
+      1280738.18,
+      1477574.53,
+      1740263,
+      1840506.53
+    ],
+    "Community Development": [
+      502077.73,
+      481295.35,
+      780450.92,
+      787526.49,
+      933263,
+      886805.83
+    ],
+    "Transfers": [
+      null,
+      2985342.38,
+      14000000,
+      18723413.07,
+      0,
+      0
+    ]
+  },
+  "revenues": {
+    "Property Taxes": [
+      127386861,
+      130896048.48,
+      138548478.63,
+      152135114.67,
+      159544213.75,
+      166979208.1
+    ],
+    "State Aid": [
+      27297415.52,
+      28755762.02,
+      33806036.06,
+      34409498,
+      35692612,
+      36619571
+    ],
+    "Local Receipts": [
+      19108568.81,
+      22619372.77,
+      25116961.17,
+      26916016.96,
+      22525100,
+      25574600
+    ],
+    "Transfers In": [
+      8788157.95,
+      9596055.64,
+      2086932.17,
+      3381204.97,
+      2711121.56,
+      2968358.4
+    ],
+    "Federal Aid": [
+      182052.33,
+      361074.35,
+      214842.18,
+      186715.49,
+      null,
+      185000
+    ],
+    "Law": [
+      35,
+      240,
+      975,
+      1562.5,
+      null,
+      null
+    ],
+    "Misc. Revenue": [
+      null,
+      null,
+      null,
+      9814.4,
+      null,
+      null
+    ]
+  },
+  "summary": {
+    "actualRevenue": [
+      182763090.61,
+      192228553.26,
+      199774225.21,
+      217039926.99,
+      163922850.01,
+      null
+    ],
+    "actualExpenditure": [
+      172694455.34,
+      183582020.13,
+      205110714.83,
+      223496131.93,
+      167123657.92,
+      null
+    ],
+    "budgetRevenue": [
+      180525112,
+      181413170,
+      194280198,
+      203641839.87,
+      220473047.31,
+      232326737.5
+    ],
+    "budgetExpenditure": [
+      165291209,
+      188077071.65,
+      193223655.91,
+      202436327,
+      219476150,
+      232974738.86
+    ]
+  },
+  "modelTotal": 231123636.89,
+  "publishedTotal": 232974738.86,
+  "reconciliationDifference": 1851101.97,
+  "status": "Research preview: published FY27 book, not reconciled adopted appropriations"
+}

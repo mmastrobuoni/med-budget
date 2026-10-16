@@ -1,0 +1,15 @@
+const fs=require('fs'),assert=require('assert/strict');const M=require('../model.js'),D=JSON.parse(fs.readFileSync(__dirname+'/../data/budget.json'));
+const near=(a,b)=>assert.ok(Math.abs(a-b)<.01,`${a} != ${b}`);let s=M.defaults(D),r=M.project(D,s);
+near(r[0].expense,D.publishedTotal);near(r[0].revenue,D.summary.budgetRevenue[5]);near(r[0].incrementalGap,0);
+let flat=M.defaults(D);for(const k in flat.rates)flat.rates[k]=0;for(const k in flat.revenueRates)flat.revenueRates[k]=0;flat.newGrowth=0;
+let rr=M.project(D,flat);rr.forEach(x=>near(x.incrementalGap,0));
+flat.investments=[{name:'One time',amount:1000000,start:2029,kind:'once',growth:3}];rr=M.project(D,flat);near(rr[1].incrementalGap,0);near(rr[2].incrementalGap,1e6);near(rr[3].incrementalGap,0);near(rr[2].structuralGap,0);
+flat.investments=[{name:'Staff',amount:1e6,start:2028,kind:'recurring',growth:10}];rr=M.project(D,flat);near(rr[1].incrementalGap,1e6);near(rr[2].incrementalGap,1.1e6);
+flat.reservePool=1.5e6;flat.reserveAnnual=1e6;rr=M.project(D,flat);near(rr[1].draw,1e6);near(rr[2].draw,.5e6);near(rr[3].draw,0);near(rr[2].reserve,0);near(rr[1].structuralGap,1e6);
+flat.recurringRevenue=1e6;flat.revenueStart=2028;rr=M.project(D,flat);near(rr[1].incrementalGap,0);near(rr[1].draw,0);near(rr[2].incrementalGap,75000);
+flat=M.defaults(D);flat.adjustments.school=-10;rr=M.project(D,flat);near(rr[0].expense,r[0].expense);near(r[1].expense-rr[1].expense,89100000*(1+s.rates.schools/100)*.1);
+assert.deepEqual(M.sanitize(JSON.parse(JSON.stringify(s)),D),s);assert.deepEqual(M.sanitize({version:'old'},D),s);assert.equal(M.sanitize({...s,reservePool:-1},D).reservePool,0);
+const before=JSON.stringify(D);M.project(D,s);assert.equal(JSON.stringify(D),before);
+for(const d of D.departments)for(const a of d.accounts)assert.equal(a.values.length,6);
+const sum=D.departments.filter(d=>d.included).flatMap(d=>d.accounts).reduce((s,a)=>s+(a.values[5]??0),0);near(sum,D.modelTotal);near(sum+D.reconciliationDifference,D.publishedTotal);
+console.log('Passed: baseline, flat case, timing, compounding, reserves, recurring revenue, department change, schema, immutability, and data reconciliation.');
